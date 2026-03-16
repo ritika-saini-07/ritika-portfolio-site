@@ -481,11 +481,7 @@ const App = () => {
                          <a href="#projects" onClick={(e) => { e.preventDefault(); scrollTo('projects'); }} className="btn btn-primary" style={{ borderRadius: '100px', padding: '12px 28px', fontSize: '0.95rem' }}>
                             View Projects <ArrowRight strokeWidth={2} size={16}/>
                          </a>
-<<<<<<< HEAD
                          <a href="/Ritika_CV.pdf" download="Ritika_CV.pdf" target="_blank" className="btn btn-outline" style={{ borderRadius: '100px', padding: '12px 28px', fontSize: '0.95rem' }}>
-=======
-                         <a href="/Ritika_CV.pdf" target="_blank" className="btn btn-outline" style={{ borderRadius: '100px', padding: '12px 28px', fontSize: '0.95rem' }}>
->>>>>>> a831ecf60f0bc2a57c1fd98804607bf12a5304e9
                             Download CV <Download strokeWidth={2} size={16}/>
                          </a>
                       </div>
@@ -816,11 +812,7 @@ const App = () => {
                   <a href="mailto:ritikasaini@gmail.com" className="btn btn-outline" style={{ borderRadius: "100px" }}>
                     ritikasaini@gmail.com <ArrowUpRight size={18} />
                  </a>
-<<<<<<< HEAD
                  <a href="/Ritika_CV.pdf" download="Ritika_CV.pdf" target="_blank" className="btn btn-primary" style={{ borderRadius: "100px" }}>
-=======
-                 <a href="/Ritika_CV.pdf" target="_blank" className="btn btn-primary" style={{ borderRadius: "100px" }}>
->>>>>>> a831ecf60f0bc2a57c1fd98804607bf12a5304e9
                     Download CV <Download size={18} />
                  </a>
               </div>
