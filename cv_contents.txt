@@ -1,0 +1,64 @@
+ Ritika  Sain i 
+Linked In:  https://www.linkedin.com/in/ritika -saini/                                                            Email:   saini.ritika0709@gmail.com  
+Github :     https://github.com/ritika -saini -07  Mobile:   +91-9599068007  
+ 
+SKILLS  
+? Languages : C, C++, Java,  Python, JavaScript , Shell Scripting  
+? Frameworks : React, Node .js, Express .js, Spring  
+? Technologies : HTML , CSS, MySQL,  MongoDB , Figma, UI/UX Design  
+? Soft  Skills : Problem -Solving, Strategic Thinking, Creativity, Adaptability, Resilience, Empathy, Teamwork  
+ 
+PROJECTS  
+? Disk Schedul ing Algorithm Simulator :                                                                                                             April  2025  
+- Developed an interactive simulator to visualize and compare disk scheduling algorithms (FCFS, SSTF, SCAN, C -SCAN) . 
+- Implemented scheduling logic in Python to simulate disk head movement and calculate seek time, reducing manual 
+calculation effort by ~80% during demonstrations and testing.  
+- Integrated graph -based visualizations to clearly represent disk head movement and seek time patterns, improving algorithm 
+comparison clarity by ~60% in evaluation sessions.  
+Tech : Python, HTML, CSS, OS Concepts  
+? SkinBuddy  - AI Powered Skincare Advisor :                                                                                          March 2025  
+- Created an AI-powered chatbot that analyzes user skin concerns and images to generate personalized skincare 
+recommendations tailored to different skin types and conditions.  
+- Leveraged FastAPI to build backend APIs with AI -based decision logic for analyzing user inputs and generating relevant 
+skincare suggestions  with ~90% relevance accuracy during prototype testing.  
+- Enabled real -time interaction through a simple and responsive interface that delivers customized skincare routines and 
+improves engagement by ~70%  in usability testing.  
+Tech : FastAPI, AI Models, HTML, CSS, JavaScript  
+? Art & Asset - Marketplace Prototyp e:                                                                      February  2025 
+- Designed  a high -fidelity  UI/UX  prototype  for a student marketplace platform enabling users to trade academic projects, 
+creative work, and useful student resources.  
+- Structured user flows and screen layouts in Figma to simplify navigation, improving usability and clarity . 
+- Presented an interactive prototype demonstrating the platform?s core features and complete user journey, achieving ~90% 
+task completion accuracy during peer usability testing.  
+Tech : Figma, UI/UX Design  
+ 
+TRAINING  
+? Programming Pathshala  - MERN Stack  Training :                            August 2025  - October 2025  
+- Engineered a full -stack e -commerce application during summer training to gain hands -on experience in building a platform 
+supporting product browsing, cart management, and secure order placement.  
+- Incorporated RESTful APIs and JWT -based authentication to manage user sessions, control access to protected routes, and 
+enable smooth frontend ?backend communication.  
+- Delivered a responsive and secure shopping platform with structured product management and user handling, achieving 
+~95% functional accuracy during testing scenarios.  
+ 
+CERTIFICAT ES 
+? Build Generative AI Apps and Solutions with No -Code Tools - Udemy                                                                                     August 2025  
+? Com putational Theory: Language Principles & Finite Automata Theory - Infosys                                       August 2025  
+? Full Stack Development with AI - Programming  Pathshala                                                                                              July 2025  
+ 
+EXTRA -CURRICULAR ACTIVITIES  
+? Volunteered with an NGO to promote education and raise awareness about children?s rights.  
+? Participated in a UI/UX design principles workshop at IIT Roorkee, organized by World Technocon.  
+? Attended a 3 -day cybersecurity conference by the IGEN Community, learning modern security practices and industry trends . 
+? Competed in a 24 -hour hackathon, focusing on collaborative coding and rapid prototype development .   
+                                     
+EDUCATION  
+Lovely  Professional  University                                                                                                                                          Phagwara , Punjab  
+Bachelor  of Technology  - Computer  Science  and Engineering;  CGPA:  7.43                                        August  2023 - Present  
+Ganga International  School                                                                                                                                                          New Delhi  
+Intermediate;  Percentage:  85.6 %                                                                                                                April  2022 - Marc h 2023 
+Ganga International School                        New Delhi  
+Matriculation;  Percentage:  93.2%                                                                                                              April  2020 - March  2021 
+   ? 
+? 
+? 
